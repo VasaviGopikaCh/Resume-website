@@ -158,7 +158,7 @@ section .title::after{
 /* home section styling */
 .home{
     display: flex;
-    background: url("blob/main/IMG_20211007_000753.jpg") no repeat center ;
+    background: url("![IMG_20211007_000753](https://user-images.githubusercontent.com/96393761/146805980-bad7d549-8004-4090-bae2-58c0c498f49f.jpg)") no repeat center ;
     height: 100vh;
     width: 100vw;
     color: #fff;
